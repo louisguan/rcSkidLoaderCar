@@ -9,15 +9,15 @@
 https://www.youtube.com/watch?v=IpAPP2dbTlo&list=PL3kEtDqGpeRvbATUcVdNh9r0mhm7FxKDL&index=15&ab_channel=%E5%AE%98%E6%86%B2%E7%91%9C
 
 ## Development Community
-You have been invited to join "伴伴登月±小車"! Please click the link below to join the community!    
+- You have been invited to join "伴伴登月±小車"! Please click the link below to join the community!    
 https://line.me/ti/g2/HHEJmPyi1mCUlm13mp5g_n7wNlMR3rBePlQWWg?utm_source=invitation&utm_medium=link_copy&utm_campaign=default  
   
 ![QrCode](https://user-images.githubusercontent.com/11693540/205818597-97cd6f16-2f36-42ca-bde3-ab54daa72cb5.jpg)    
   
-Discord  
+- Discord  
 https://discord.gg/AyjVuQVm
   
-Activity Link：https://us02web.zoom.us/j/82599117655  
+- Activity Link：https://us02web.zoom.us/j/82599117655  
 PSWD：666666  
     
 ## BOM-1
