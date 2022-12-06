@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/11693540/205819406-7c3f977c-1c3f-4edc-9312-61269ae7b670.png)
   
 
-## 直播影片回放
+## Instructional Video
 https://www.youtube.com/watch?v=IpAPP2dbTlo&list=PL3kEtDqGpeRvbATUcVdNh9r0mhm7FxKDL&index=15&ab_channel=%E5%AE%98%E6%86%B2%E7%91%9C
 
 ## Development Community
@@ -14,7 +14,8 @@ https://line.me/ti/g2/HHEJmPyi1mCUlm13mp5g_n7wNlMR3rBePlQWWg?utm_source=invitati
 ![QrCode](https://user-images.githubusercontent.com/11693540/205818597-97cd6f16-2f36-42ca-bde3-ab54daa72cb5.jpg)    
 Discord  
 https://discord.gg/AyjVuQVm
-
+  
+    
 ## BOM-1
 ![image](https://user-images.githubusercontent.com/11693540/205815601-deb1ed06-9adc-4b7c-925b-76c0be4f9f28.png)  
 
