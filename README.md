@@ -47,3 +47,9 @@ https://line.me/ti/g2/HHEJmPyi1mCUlm13mp5g_n7wNlMR3rBePlQWWg?utm_source=invitati
 - BOM-3
    
 ![image](https://user-images.githubusercontent.com/11693540/205816311-4d4a56b2-48f8-40f7-898f-261e82c94747.png)  
+  
+<p>
+    <div style="width:100%; height:350px;border:none;text-align:center">
+		<iframe allowtransparency="yes" frameborder="0" width="300" height="300" src="/contentimg/11/click.html"/>
+	</div>
+</p> 
