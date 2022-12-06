@@ -15,7 +15,7 @@ https://line.me/ti/g2/HHEJmPyi1mCUlm13mp5g_n7wNlMR3rBePlQWWg?utm_source=invitati
 ![QrCode](https://user-images.githubusercontent.com/11693540/205818597-97cd6f16-2f36-42ca-bde3-ab54daa72cb5.jpg)    
   
 - Discord  
-https://discord.gg/AyjVuQVm
+[https://discord.gg/AyjVuQVm](https://discord.gg/8zcKgmGph2)
   
 - Activity Link：https://us02web.zoom.us/j/82599117655  
 PSWD：666666  
