@@ -39,7 +39,7 @@ https://line.me/ti/g2/HHEJmPyi1mCUlm13mp5g_n7wNlMR3rBePlQWWg?utm_source=invitati
 ## ✨Matrial BOM
 - BOM-1
    
-![image](https://user-images.githubusercontent.com/11693540/205815601-deb1ed06-9adc-4b7c-925b-76c0be4f9f28.png)  
+![image](https://user-images.githubusercontent.com/11693540/205850016-d8d73447-9900-4270-874e-e40e6dbb131d.png)
 
 - BOM-2
    
