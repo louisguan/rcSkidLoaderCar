@@ -6,19 +6,19 @@ Start from from 3D mechanism, circuit design to firmware development together ev
   
 
 ## 🎮 Instructional Video
-- ## 🚩 3D Mechanism (Onshape、Solidworks)  
+  ## 🚩 3D Mechanism (Onshape、Solidworks)  
 - https://www.youtube.com/watch?v=IpAPP2dbTlo&list=PL3kEtDqGpeRvbATUcVdNh9r0mhm7FxKDL&index=16&ab_channel=%E5%AE%98%E6%86%B2%E7%91%9C
 - https://www.youtube.com/watch?v=AxfQnSFDP1M&list=PL3kEtDqGpeRvbATUcVdNh9r0mhm7FxKDL&index=16&ab_channel=%E5%AE%98%E6%86%B2%E7%91%9C
 - https://www.youtube.com/watch?v=Puj2q3kAJUo&list=PL3kEtDqGpeRvbATUcVdNh9r0mhm7FxKDL&index=17&ab_channel=%E5%AE%98%E6%86%B2%E7%91%9C
 - https://www.youtube.com/watch?v=uIT8YMKExaE&list=PL3kEtDqGpeRvbATUcVdNh9r0mhm7FxKDL&index=18&ab_channel=%E5%AE%98%E6%86%B2%E7%91%9C
 - https://www.youtube.com/watch?v=76L7Sum-qm4&list=PL3kEtDqGpeRvbATUcVdNh9r0mhm7FxKDL&index=19&ab_channel=%E5%AE%98%E6%86%B2%E7%91%9C
-- ## 🚀 PCB Layout (Altium Designer、EasyEDA)
+  ## 🚀 PCB Layout (Altium Designer、EasyEDA)
 - https://www.youtube.com/watch?v=VaYTunGMPOY&list=PL3kEtDqGpeRvbATUcVdNh9r0mhm7FxKDL&index=21&ab_channel=%E5%AE%98%E6%86%B2%E7%91%9C
 - -
 - -
 - -
 - -
-- ## 🚀 Firmware Construction (Arduino IDE、VScode PlatformIO)  
+  ## 🚀 Firmware Construction (Arduino IDE、VScode PlatformIO)  
 - -
 - -
 - -
