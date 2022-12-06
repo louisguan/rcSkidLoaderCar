@@ -1,5 +1,7 @@
 # rcSkidLoaderCar
 
+一起從0開始，每週三晚上八點，從3D機構到電路設計，到韌體開發，開發出一台適合大人小朋友一起玩的 Skid Loader 小車，可以透過藍芽/Wifi 控制馬達，讓小車可以移動、控制手臂，適合需要設計教案靈感的老師或家長一同參加！
+
 BOM-1
 ![image](https://user-images.githubusercontent.com/11693540/205815601-deb1ed06-9adc-4b7c-925b-76c0be4f9f28.png)
 
