@@ -17,7 +17,7 @@ Discord
 https://discord.gg/AyjVuQVm
   
 Activity Link：https://us02web.zoom.us/j/82599117655  
-P：666666  
+PSWD：666666  
     
 ## BOM-1
 ![image](https://user-images.githubusercontent.com/11693540/205815601-deb1ed06-9adc-4b7c-925b-76c0be4f9f28.png)  
