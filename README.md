@@ -1,6 +1,6 @@
 # rcSkidLoaderCar
 
-Start from from 3D mechanism, circuit design to firmware development together in every Wed. at 8:00 pm. The skid loader which can be controled by Bluetooth/Wifi (V7RC) car suitable for adults and children to play together.  
+Start from from 3D mechanism, circuit design to firmware development together in every Wed. at 8:00 pm. The skid loader car which can be controled by Bluetooth/Wifi (V7RC) suitable for adults and children to play together.  
   
 ![image](https://user-images.githubusercontent.com/11693540/205819406-7c3f977c-1c3f-4edc-9312-61269ae7b670.png)
   
