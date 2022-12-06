@@ -17,9 +17,9 @@ https://line.me/ti/g2/HHEJmPyi1mCUlm13mp5g_n7wNlMR3rBePlQWWg?utm_source=invitati
 - Discord  
 [https://discord.gg/AyjVuQVm](https://discord.gg/8zcKgmGph2)
   
-- Activity Link：https://us02web.zoom.us/j/82599117655  
-PSWD：666666  
-    
+- Activity Link & PSWD：666666  
+[https://us02web.zoom.us/j/82599117655](https://us02web.zoom.us/j/82599117655)
+      
 ## Matrial BOM
 - BOM-1
    
