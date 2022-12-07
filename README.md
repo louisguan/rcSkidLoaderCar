@@ -4,8 +4,8 @@ Start from from 3D mechanism, circuit design to firmware development together ev
 This car driven by two N20 gear motors to control left, right or forward, backward. it also equipped with two 180° servo motors to drive the skid arm and shovel.
   
 ![image](https://user-images.githubusercontent.com/11693540/205819406-7c3f977c-1c3f-4edc-9312-61269ae7b670.png)
-![image](https://user-images.githubusercontent.com/11693540/206063916-141b8e8a-31c4-4f7d-8491-7699abbe327d.png)
-![image](https://user-images.githubusercontent.com/11693540/206064008-13f2d1e9-488a-4336-bb3d-dfe6d7ae01dd.png)
+![image](https://user-images.githubusercontent.com/11693540/206064524-788337ad-0a77-4c88-80d2-23a0d922fe15.png)
+![image](https://user-images.githubusercontent.com/11693540/206064389-8ad936ab-4804-4fa0-b8c4-da7c2475c2c6.png)
 
   
 
