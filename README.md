@@ -1,6 +1,7 @@
 # rcSkidLoaderCar
 
-Start from from 3D mechanism, circuit design to firmware development together every Wed. at 8:00 pm. The skid loader car which can be controled by Bluetooth/Wifi (V7RC) also suitable for adults and children to play together.  
+Start from from 3D mechanism, circuit design to firmware development together every Wed. at 8:00 pm. The skid loader car which can be controled by Bluetooth/Wifi (V7RC) also suitable for adults and children to play together.
+This car driven by two N20 gear motors to control left, right or forward, backward. it also equipped with two 180° servo motors to drive the skid arm and shovel.
   
 ![image](https://user-images.githubusercontent.com/11693540/205819406-7c3f977c-1c3f-4edc-9312-61269ae7b670.png)
   
