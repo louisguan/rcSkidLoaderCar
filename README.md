@@ -22,7 +22,7 @@ This car driven by two N20 gear motors to control left, right or forward, backwa
   ## 🚀PCB Layout (Altium Designer、EasyEDA)
 - https://youtu.be/VaYTunGMPOY
 - https://youtu.be/bvf4dJoh_nY
-- -
+- https://youtu.be/lFWG5T6XxBQ
 - -
 - -
   ## 🚀Firmware Construction (Arduino IDE、VScode PlatformIO)  
