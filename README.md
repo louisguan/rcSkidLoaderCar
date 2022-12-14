@@ -21,7 +21,7 @@ This car driven by two N20 gear motors to control left, right or forward, backwa
 - https://www.youtube.com/watch?v=76L7Sum-qm4&list=PL3kEtDqGpeRvbATUcVdNh9r0mhm7FxKDL&index=19&ab_channel=%E5%AE%98%E6%86%B2%E7%91%9C
   ## 🚀PCB Layout (Altium Designer、EasyEDA)
 - https://www.youtube.com/watch?v=VaYTunGMPOY&list=PL3kEtDqGpeRvbATUcVdNh9r0mhm7FxKDL&index=21&ab_channel=%E5%AE%98%E6%86%B2%E7%91%9C
-- -
+- https://www.youtube.com/watch?v=bvf4dJoh_nY
 - -
 - -
 - -
