@@ -43,7 +43,9 @@ https://line.me/ti/g2/HHEJmPyi1mCUlm13mp5g_n7wNlMR3rBePlQWWg?utm_source=invitati
 - Online Activity Link & PSWD：666666 (every Wed. at 8:00 pm)   
 [https://us02web.zoom.us/j/82599117655](https://us02web.zoom.us/j/82599117655)
       
-## ✨Matrial BOM
+## ✨Matrial BOM  
+https://htmlpreview.github.io/?https://github.com/louisguan/rcSkidLoaderCar/blob/main/index.html
+  
 - BOM-1
    
 ![image](https://user-images.githubusercontent.com/11693540/205850016-d8d73447-9900-4270-874e-e40e6dbb131d.png)
