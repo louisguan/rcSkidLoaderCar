@@ -6,8 +6,9 @@ This car driven by two N20 gear motors to control left, right or forward, backwa
 ![image](https://user-images.githubusercontent.com/11693540/207475960-c402c751-1d8d-4f12-915c-e68db77c3fd4.png)
 ![image](https://user-images.githubusercontent.com/11693540/207475976-40429c35-93f5-49d1-9785-5c58404098eb.png)
 ![image](https://user-images.githubusercontent.com/11693540/205819406-7c3f977c-1c3f-4edc-9312-61269ae7b670.png)
-![image](https://user-images.githubusercontent.com/11693540/206064524-788337ad-0a77-4c88-80d2-23a0d922fe15.png)
-![image](https://user-images.githubusercontent.com/11693540/206064389-8ad936ab-4804-4fa0-b8c4-da7c2475c2c6.png)
+![image](https://user-images.githubusercontent.com/11693540/208003478-8c05da58-757a-487d-b964-c8d101f40af6.png)
+![image](https://user-images.githubusercontent.com/11693540/208003493-4068f6a9-c4bc-4e85-8622-1f3ac058bbbd.png)
+
 
   
 
