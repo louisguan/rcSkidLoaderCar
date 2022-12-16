@@ -44,7 +44,7 @@ https://line.me/ti/g2/HHEJmPyi1mCUlm13mp5g_n7wNlMR3rBePlQWWg?utm_source=invitati
 [https://us02web.zoom.us/j/82599117655](https://us02web.zoom.us/j/82599117655)
       
 ## ✨Matrial BOM  
-https://htmlpreview.github.io/?https://github.com/louisguan/rcSkidLoaderCar/blob/main/index.html
+- https://htmlpreview.github.io/?https://github.com/louisguan/rcSkidLoaderCar/blob/main/index.html
   
 - BOM-1
    
