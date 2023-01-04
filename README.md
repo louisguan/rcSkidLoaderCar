@@ -31,6 +31,7 @@ This car driven by two N20 gear motors to control left, right or forward, backwa
 - https://youtu.be/lFWG5T6XxBQ
 - https://youtu.be/RRwknQqE5Xk
 - ![image](https://user-images.githubusercontent.com/11693540/210048331-9e789478-0abd-41b5-a925-be29e6b2029e.png)
+- https://youtu.be/87kM_InrWrQ
 - -
 
   ## 🚀Firmware Construction (Arduino IDE、VScode PlatformIO)  
