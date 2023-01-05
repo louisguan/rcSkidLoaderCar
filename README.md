@@ -31,9 +31,9 @@ This car driven by two N20 gear motors to control left, right or forward, backwa
 - https://youtu.be/lFWG5T6XxBQ
 - https://youtu.be/RRwknQqE5Xk
 - https://youtu.be/87kM_InrWrQ
-  ![image](https://user-images.githubusercontent.com/11693540/210048331-9e789478-0abd-41b5-a925-be29e6b2029e.png)
-  ![image](https://user-images.githubusercontent.com/11693540/210675661-ca36de0f-92c6-4bf1-b3ca-b7adb0a3086c.png)
-  ![image](https://user-images.githubusercontent.com/11693540/210675723-0ec86e74-478b-46c8-b6fb-f9ceb6c93fde.png)
+- ![image](https://user-images.githubusercontent.com/11693540/210048331-9e789478-0abd-41b5-a925-be29e6b2029e.png)
+- ![image](https://user-images.githubusercontent.com/11693540/210675661-ca36de0f-92c6-4bf1-b3ca-b7adb0a3086c.png)
+- ![image](https://user-images.githubusercontent.com/11693540/210675723-0ec86e74-478b-46c8-b6fb-f9ceb6c93fde.png)
 
 - -
 
